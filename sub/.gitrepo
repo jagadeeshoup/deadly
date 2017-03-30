@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/sriram15690/barerepo.git
+	branch = master
+	commit = 2638ac6fe68b43f77e7615f0bbd9ac63e7a5a50f
+	parent = 28e0f1d4415b01d44bd80789ffb291b787d3c01b
+	cmdver = 0.3.1
